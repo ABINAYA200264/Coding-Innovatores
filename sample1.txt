@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello guys welcome to the toady coding part
+=======
+Studnt = 41
+role = Innovatores
+>>>>>>> 58e2e51223e2931113a672f722cf4571c650095d
